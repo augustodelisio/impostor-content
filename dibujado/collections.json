@@ -1,0 +1,10 @@
+[
+  {
+    "id": "online_personajes_historicos",
+    "name": "Personajes Históricos",
+    "region": "universal",
+    "isDefault": true,
+    "isObtained": false,
+    "words": ["albert einstein", "cleopatra", "napoleón", "cristobal colón"]
+  }
+]
