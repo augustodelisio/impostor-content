@@ -1,0 +1,10 @@
+[
+  {
+    "id": "online_animales_ar",
+    "name": "Animales Argentinos",
+    "region": "argentina",
+    "isDefault": true,
+    "isObtained": false,
+    "words": ["carpincho", "yacaré", "ñandú", "vizcacha"]
+  }
+]
