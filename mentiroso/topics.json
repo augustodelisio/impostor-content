@@ -1,0 +1,16 @@
+[
+  {
+    "id": "online_capitales",
+    "name": "Capitales del Mundo",
+    "region": "universal",
+    "isDefault": true,
+    "isObtained": false,
+    "statements": [
+      {
+        "id": "online_capit_1",
+        "text": "¿Cuál es la capital de Australia?",
+        "answers": ["Sidney", "Melbourne", "Canberra"]
+      }
+    ]
+  }
+]
