@@ -14,11 +14,20 @@
     "isDefault": true,
     "isObtained": true,
     "special": {
-        "borderColor": "#ef4444",
-        "backgroundColor": "rgba(239,68,68,0.06)",
-        "glowColor": "rgba(239,68,68,0.2)",
-        "badgeText": "🎄 Edición Navidad",
-        "badgeColor": "#dc2626"
+      "borderColor": "#3b82f6",
+      "backgroundColor": "rgba(59,130,246,0.07)",
+      "glowColor": "rgba(59,130,246,0.25)",
+      "badgeText": "❄️ Navidad",
+      "badgeColor": "#2563eb",
+      "particles": {
+        "symbol": "❄",
+        "direction": "down",
+        "count": 18,
+        "speedMs": 4000,
+        "minSize": 8,
+        "maxSize": 16,
+        "opacity": 0.6
+      }
     },
     "words": ["Papá Noel", "Reno", "Árbol de Navidad"]
   }
