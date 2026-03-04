@@ -6,5 +6,20 @@
     "isDefault": true,
     "isObtained": false,
     "words": ["carpincho", "yacaré", "ñandú", "vizcacha", "hornero"]
+  },
+  {
+    "id": "online_navidad_2026",
+    "name": "Navidad",
+    "region": "universal",
+    "isDefault": true,
+    "isObtained": true,
+    "special": {
+        "borderColor": "#ef4444",
+        "backgroundColor": "rgba(239,68,68,0.06)",
+        "glowColor": "rgba(239,68,68,0.2)",
+        "badgeText": "🎄 Edición Navidad",
+        "badgeColor": "#dc2626"
+    },
+    "words": ["Papá Noel", "Reno", "Árbol de Navidad"]
   }
 ]
