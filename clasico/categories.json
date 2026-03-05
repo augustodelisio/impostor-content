@@ -20,6 +20,8 @@
     "isDefault": true,
     "isObtained": true,
     "special": {
+      "availableFrom": "2026-12-01T00:00:00",
+      "availableUntil": "2027-01-08T23:59:59",
       "borderColor": "#3b82f6",
       "backgroundColor": "rgba(59,130,246,0.07)",
       "glowColor": "rgba(59,130,246,0.25)",
@@ -46,6 +48,8 @@
     "name": "Día de la Independencia en Argentina",
     "region": "argentina",
     "special": {
+      "availableFrom": "2026-07-01T00:00:00",
+      "availableUntil": "2026-07-31T23:59:59",
       "borderColor": "#74ACDF",
       "backgroundColor": "rgba(116,172,223, 0.08)",
       "glowColor": "rgba(116,172,223, 0.35)",
