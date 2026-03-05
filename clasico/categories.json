@@ -30,8 +30,8 @@
         "direction": "down",
         "count": 18,
         "speedMs": 4000,
-        "minSize": 8,
-        "maxSize": 16,
+        "minSize": 6,
+        "maxSize": 14,
         "opacity": 0.6
       }
     },
@@ -43,7 +43,7 @@
   },
   {
     "id": "special_independencia_ar",
-    "name": "🇦🇷 9 de Julio",
+    "name": "Día de la Independencia en Argentina",
     "region": "argentina",
     "special": {
       "borderColor": "#74ACDF",
@@ -53,11 +53,11 @@
       "particles": {
         "imageUrl": "https://cdn.jsdelivr.net/gh/augustodelisio/impostor-content@main/assets/escarapela-argentina.svg",
         "direction": "up",
-        "count": 12,
+        "count": 8,
         "speedMs": 7000,
         "minSize": 14,
         "maxSize": 26,
-        "opacity": 0.85
+        "opacity": 0.5
       }
     },
     "words": [

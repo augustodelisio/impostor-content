@@ -1,5 +1,14 @@
 {
-  "clasico": { "version": 2, "url": "clasico/categories.json" },
-  "dibujado": { "version": 1, "url": "dibujado/collections.json" },
-  "mentiroso": { "version": 1, "url": "mentiroso/topics.json" }
+  "clasico": {
+    "version": 2,
+    "url": "clasico/categories.json"
+  },
+  "dibujado": {
+    "version": 1,
+    "url": "dibujado/collections.json"
+  },
+  "mentiroso": {
+    "version": 1,
+    "url": "mentiroso/topics.json"
+  }
 }
