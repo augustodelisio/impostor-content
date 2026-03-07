@@ -66,19 +66,184 @@
     },
     "words": [
       "Casa de Tucumán",
-      "Declaración",
-      "Libertad",
+      "Cabildo",
       "Congreso de Tucumán",
       "San Martín",
       "Manuel Belgrano",
       "Escarapela",
       "Sol de Mayo",
       "Acta de Independencia",
-      "Patriotas",
-      "Soberanía",
-      "Provincias Unidas",
-      "Cabildo",
+      "Carreta",
+      "Prócer",
+      "Virrey",
       "Tucumán"
+    ]
+  },
+  {
+    "id": "special_halloween",
+    "name": "Halloween",
+    "region": "universal",
+    "special": {
+      "availableFrom": "2026-10-15T00:00:00",
+      "availableUntil": "2026-11-05T23:59:59",
+      "borderColor": "#ff7518",
+      "backgroundColor": "rgba(255,117,24,0.08)",
+      "glowColor": "rgba(255,117,24,0.35)",
+      "badgeColor": "#ff7518",
+      "particles": {
+        "symbol": "🎃",
+        "direction": "float",
+        "count": 12,
+        "speedMs": 6500,
+        "minSize": 14,
+        "maxSize": 24,
+        "opacity": 0.55
+      }
+    },
+    "words": [
+      "Fantasma",
+      "Bruja",
+      "Vampiro",
+      "Calabaza",
+      "Murciélago",
+      "Esqueleto",
+      "Zombi",
+      "Momia",
+      "Hombre Lobo",
+      "Caldero",
+      "Telaraña"
+    ]
+  },
+  {
+    "id": "special_san_valentin",
+    "name": "San Valentín",
+    "region": "universal",
+    "special": {
+      "availableFrom": "2027-02-01T00:00:00",
+      "availableUntil": "2027-02-15T23:59:59",
+      "borderColor": "#ff4d6d",
+      "backgroundColor": "rgba(255,77,109,0.08)",
+      "glowColor": "rgba(255,77,109,0.35)",
+      "badgeColor": "#ff4d6d",
+      "particles": {
+        "symbol": "💘",
+        "direction": "up",
+        "count": 10,
+        "speedMs": 7500,
+        "minSize": 16,
+        "maxSize": 26,
+        "opacity": 0.65
+      }
+    },
+    "words": [
+      "Cupido",
+      "Corazón",
+      "Chocolate",
+      "Rosas",
+      "Carta",
+      "Beso",
+      "Anillo",
+      "Peluche",
+      "Poema",
+      "Cena Romántica"
+    ]
+  },
+  {
+    "id": "special_dia_muertos_mx",
+    "name": "Día de Muertos",
+    "region": "mexico",
+    "special": {
+      "availableFrom": "2026-10-25T00:00:00",
+      "availableUntil": "2026-11-05T23:59:59",
+      "borderColor": "#9d4edd",
+      "backgroundColor": "rgba(157,78,221,0.08)",
+      "glowColor": "rgba(157,78,221,0.35)",
+      "badgeColor": "#9d4edd",
+      "particles": {
+        "symbol": "💀",
+        "direction": "up",
+        "count": 12,
+        "speedMs": 7000,
+        "minSize": 14,
+        "maxSize": 26,
+        "opacity": 0.6
+      }
+    },
+    "words": [
+      "Catrina",
+      "Pan de Muerto",
+      "Cempasúchil",
+      "Altar",
+      "Alebrije",
+      "Calaverita",
+      "Ofrenda",
+      "Xoloitzcuintle",
+      "Copal",
+      "Papel Picado"
+    ]
+  },
+  {
+    "id": "special_san_fermin_es",
+    "name": "San Fermín",
+    "region": "españa",
+    "special": {
+      "availableFrom": "2026-07-01T00:00:00",
+      "availableUntil": "2026-07-15T23:59:59",
+      "borderColor": "#d90429",
+      "backgroundColor": "rgba(217,4,41,0.08)",
+      "glowColor": "rgba(217,4,41,0.35)",
+      "badgeColor": "#d90429",
+      "particles": {
+        "symbol": "🐂",
+        "direction": "float",
+        "count": 8,
+        "speedMs": 5500,
+        "minSize": 18,
+        "maxSize": 28,
+        "opacity": 0.7
+      }
+    },
+    "words": [
+      "Toro",
+      "Chupinazo",
+      "Encierro",
+      "Pañuelo Rojo",
+      "Pamplona",
+      "Corredor",
+      "Cuernos",
+      "Peñas"
+    ]
+  },
+  {
+    "id": "special_carnaval_co",
+    "name": "Carnaval de Barranquilla",
+    "region": "colombia",
+    "special": {
+      "availableFrom": "2027-02-01T00:00:00",
+      "availableUntil": "2027-02-28T23:59:59",
+      "borderColor": "#f48c06",
+      "backgroundColor": "rgba(244,140,6,0.08)",
+      "glowColor": "rgba(244,140,6,0.35)",
+      "badgeColor": "#f48c06",
+      "particles": {
+        "symbol": "🎉",
+        "direction": "down",
+        "count": 16,
+        "speedMs": 6000,
+        "minSize": 12,
+        "maxSize": 22,
+        "opacity": 0.8
+      }
+    },
+    "words": [
+      "Marimonda",
+      "Congo",
+      "Garabato",
+      "Monocuco",
+      "Cumbia",
+      "Batalla de Flores",
+      "Carroza",
+      "Guacherna"
     ]
   }
 ]

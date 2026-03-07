@@ -8,8 +8,94 @@
     "statements": [
       {
         "id": "online_capit_1",
-        "text": "¿Cuál es la capital de Australia?",
-        "answers": ["Sidney", "Melbourne", "Canberra"]
+        "text": "Capitales de los países reconocidos por la ONU (Cualquier continente).",
+        "answers": [
+          "Canberra",
+          "Buenos Aires",
+          "Brasilia",
+          "Ottawa",
+          "Santiago",
+          "Pekín",
+          "Madrid",
+          "Washington D.C.",
+          "Londres",
+          "París",
+          "Berlín",
+          "Roma",
+          "Tokio",
+          "Moscú",
+          "Ciudad de México",
+          "Seúl",
+          "Nueva Delhi",
+          "Brasilia",
+          "El Cairo",
+          "Bangkok",
+          "Atenas",
+          "Lisboa",
+          "Estocolmo",
+          "Oslo",
+          "Helsinki",
+          "Copenhague",
+          "Viena",
+          "Varsovia",
+          "Praga",
+          "Budapest",
+          "Dublín",
+          "Bruselas",
+          "Ámsterdam",
+          "Luxemburgo",
+          "Berna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "special_navidad_mentiroso",
+    "name": "Especial Navidad",
+    "region": "universal",
+    "special": {
+      "availableFrom": "2026-12-01T00:00:00",
+      "availableUntil": "2027-01-08T23:59:59",
+      "borderColor": "#3b82f6",
+      "backgroundColor": "rgba(59,130,246,0.07)",
+      "glowColor": "rgba(59,130,246,0.25)",
+      "badgeText": "❄️ Navidad",
+      "badgeColor": "#2563eb",
+      "particles": {
+        "symbol": "❄",
+        "direction": "down",
+        "count": 18,
+        "speedMs": 4000,
+        "minSize": 6,
+        "maxSize": 14,
+        "opacity": 0.6
+      }
+    },
+    "statements": [
+      {
+        "id": "nav_ment_1",
+        "text": "Películas cuya temática principal o escenario sea la Navidad.",
+        "answers": [
+          "Mi Pobre Angelito (Home Alone)",
+          "El Grinch",
+          "El Extraño Mundo de Jack (The Nightmare Before Christmas)",
+          "Realmente Amor (Love Actually)",
+          "Milagro en la calle 34",
+          "El Expreso Polar",
+          "El Regalo Prometido (Jingle All the Way)",
+          "Santa Cláusula",
+          "Un Cuento de Navidad (A Christmas Carol)",
+          "Klaus",
+          "Duro de Matar (Die Hard)",
+          "Gremlins",
+          "Elf (El Duende)",
+          "Vacaciones de Invierno (National Lampoon's Christmas Vacation)",
+          "Intercambio de Princesas",
+          "Crónicas de Navidad",
+          "El Descanso (The Holiday)",
+          "Operación Regalo (Arthur Christmas)",
+          "Sobreviviendo a la Navidad"
+        ]
       }
     ]
   }
