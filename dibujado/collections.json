@@ -1,19 +1,5 @@
 [
   {
-    "id": "dibujado-deportes",
-    "name": "Deportes (OVERRIDE ONLINE)",
-    "region": "universal",
-    "isDefault": true,
-    "isObtained": true,
-    "words": [
-      "Quidditch",
-      "Carrera de Pods",
-      "Ajedrez Mágico",
-      "Peleas de Mechas",
-      "Lanzamiento de Enanos"
-    ]
-  },
-  {
     "id": "online_personajes_historicos",
     "name": "Personajes Históricos",
     "region": "universal",

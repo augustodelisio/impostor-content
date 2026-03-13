@@ -1,19 +1,5 @@
 [
   {
-    "id": "available-professions",
-    "name": "Profesiones (OVERRIDE ONLINE)",
-    "region": "universal",
-    "isDefault": true,
-    "isObtained": true,
-    "words": [
-      "Médico Espacial",
-      "Abogado Galáctico",
-      "Ingeniero Cuántico",
-      "Profesor de Magia",
-      "Chef Extraterrestre"
-    ]
-  },
-  {
     "id": "online_animales_ar",
     "name": "Animales Argentinos",
     "region": "argentina",

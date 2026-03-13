@@ -1,25 +1,5 @@
 [
   {
-    "id": "mentiroso-geografia",
-    "name": "Geografía (OVERRIDE ONLINE)",
-    "region": "universal",
-    "isDefault": true,
-    "isObtained": true,
-    "statements": [
-      {
-        "id": "stmt-geo-planetas-override",
-        "text": "Planetas del sistema solar donde llueven diamantes (OVERRIDE).",
-        "answers": [
-          "Neptuno",
-          "Urano",
-          "Alderaan",
-          "Krypton",
-          "Cybertron"
-        ]
-      }
-    ]
-  },
-  {
     "id": "online_capitales",
     "name": "Capitales del Mundo",
     "region": "universal",
